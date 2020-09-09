@@ -27,9 +27,18 @@
 
 <h1>About Us (English)</h1>
 <p>
-   👾English Soon
+   📒 We are a team, who coding, create mods or whatever, related to Minecraft.
 <p>
-
+   📲 Discord: Our Discord is right above. You can find images of new futur release there. And even more.
+<p>
+   📝 You can see our different projects on this GitHub
+<p>
+   💻 We Coding Data Packs for the Tardis Mod, We create Mods, and Modify Codes
+<p>
+   🔐 Some of our projects are private, others are public
+<p>
+   🔨 Our TardisMod DataPack is not OpenSource / Without public code source.
+</p>
 ---
 Nous recrutons une équipe de rédactions (Sur Discord)
 ---
