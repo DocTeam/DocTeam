@@ -34,6 +34,8 @@
 Nous recrutons une équipe de rédactions (Sur Discord)
 ---
 <h1>Remerciement à / Special Thanks to :</h1>
-
+<p>
 Conquerors (DataPack Tardis Builder)
+<p>
 Spoticraft (DataPack Tardis Builder)
+</p>
