@@ -29,3 +29,7 @@
 <p>
    👾English Soon
 <p>
+
+---
+Nous recrutons une équipe de rédactions
+---
