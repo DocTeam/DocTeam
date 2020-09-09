@@ -42,6 +42,10 @@
 
 ---
 
+English may contains error
+
+---
+
 Nous recrutons une équipe de rédactions (Sur Discord)
 
 ---
