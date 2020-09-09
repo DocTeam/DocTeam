@@ -11,7 +11,10 @@
 <p>
    French :
    
-   📒 Nous sommes un groupe, qui codons, créons des mods ou autre, en rapport avec Minecraft
+   📒 Nous sommes un groupe, qui codons, créons des mods ou autre, en rapport avec Minecraft.
+   <img src="https://img.icons8.com/nolan/2x/discord-logo.png" alt="version">
+   Notre Discord est juste au dessus. Vous pourez y trouver des images des futurs nouvautés. Et Encore Plus.
+   📝 Vous pouvez voir nos différents projet sur ce GitHub
 </p>
 
 ---
