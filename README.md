@@ -39,14 +39,20 @@
 <p>
    🔨 Our TardisMod DataPack is not OpenSource / Without public code source.
 </p>
+
 ---
+
 Nous recrutons une équipe de rédactions (Sur Discord)
+
 ---
+
 <h1>Remerciement à / Special Thanks to :</h1>
 <p>
 Conquerors (DataPack Tardis Builder)
 <p>
 Spoticraft (DataPack Tardis Builder)
 </p>
+
 ---
+
 <h1>This is a Beta Test project, Thanks for Bug/Suggestion on https://github.com/DocTeam/DocTeam/issues</h1>
