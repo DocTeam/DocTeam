@@ -39,3 +39,5 @@ Conquerors (DataPack Tardis Builder)
 <p>
 Spoticraft (DataPack Tardis Builder)
 </p>
+---
+<h1>This is a Beta Test project, Thanks for Bug/Suggestion on https://github.com/DocTeam/DocTeam/issues</h1>
