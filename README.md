@@ -8,9 +8,8 @@
 
 ---
 
+<h1>Informations sur nous (French)</h1>
 <p>
-   French :
-   
    📒 Nous sommes un groupe, qui codons, créons des mods ou autre, en rapport avec Minecraft.
 <p>
    📲 Discord : Notre Discord est juste au dessus. Vous pourez y trouver des images des futurs nouvautés. Et Encore Plus.
