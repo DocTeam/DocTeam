@@ -33,3 +33,7 @@
 ---
 Nous recrutons une équipe de rédactions (Sur Discord)
 ---
+<h1>Remerciement à / Special Thanks to :</h1>
+
+Conquerors (DataPack Tardis Builder)
+Spoticraft (DataPack Tardis Builder)
