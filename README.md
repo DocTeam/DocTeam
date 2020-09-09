@@ -24,3 +24,8 @@
 </p>
 
 ---
+
+<h1>About Us (English)</h1>
+<p>
+   👾English Soon
+<p>
