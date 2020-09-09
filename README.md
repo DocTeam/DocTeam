@@ -37,7 +37,7 @@
 <p>
    🔐 Some of our projects are private, others are public
 <p>
-   🔨 Our TardisMod DataPack is not OpenSource / Without public code source.
+   🔨 Our TardisMod DataPack is not OpenSource / Without public source code.
 </p>
 
 ---
