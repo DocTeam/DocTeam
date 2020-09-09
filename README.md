@@ -17,6 +17,10 @@
    📝 Vous pouvez voir nos différents projet sur ce GitHub
 <p>
    💻 Nous codons des DataPacks pour le Tardis Mod, Nous Condons des mods, et modifions des codes
+<p>
+   🔐 Certains de nos projet son privée, d'autre publique
+<p>
+   🔨 Notre DataPack du TardisMod n'est pas OpenSource/Sans source code publique.
 </p>
 
 ---
