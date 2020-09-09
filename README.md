@@ -59,7 +59,7 @@ Spoticraft (DataPack Tardis Builder)
 
 ---
 
-Current project:
+<h1>Current project:</h1>
    - TardisMod Datapack (In dev)
    - CapMine Minecraft Server
 
