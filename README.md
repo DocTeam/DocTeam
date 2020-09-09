@@ -16,6 +16,8 @@
    📲 Discord : Notre Discord est juste au dessus. Vous pourez y trouver des images des futurs nouvautés. Et Encore Plus.
 <p>
    📝 Vous pouvez voir nos différents projet sur ce GitHub
+<p>
+   💻 Nous codons des DataPacks pour le Tardis Mod, Nous Condons des mods, et modifions des codes
 </p>
 
 ---
