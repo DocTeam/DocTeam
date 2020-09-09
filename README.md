@@ -12,7 +12,9 @@
    French :
    
    📒 Nous sommes un groupe, qui codons, créons des mods ou autre, en rapport avec Minecraft.
+<p>
    📲 Discord : Notre Discord est juste au dessus. Vous pourez y trouver des images des futurs nouvautés. Et Encore Plus.
+<p>
    📝 Vous pouvez voir nos différents projet sur ce GitHub
 </p>
 
