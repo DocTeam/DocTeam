@@ -31,5 +31,5 @@
 <p>
 
 ---
-Nous recrutons une équipe de rédactions
+Nous recrutons une équipe de rédactions (Sur Discord)
 ---
